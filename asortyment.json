@@ -1,0 +1,21 @@
+{"tesco":[
+    {"product_name":"pepsi", "product_type":"napoj_gazowany", "product_group":"napoje", "price":"2.50", "quantity":"2", "unit":"litr"},
+    {"product_name":"łaciate", "product_type":"mleko", "product_group":"nabial", "price":"1.99", "quantity":"0.5", "unit":"litr" },
+    {"product_name":"babuni", "product_type":"maka", "product_group":"produkty_zbozowe", "price":"1.59", "quantity":"1000", "unit":"gram" }
+],
+"auchan":[
+    {"product_name":"pepsi", "product_type":"napoj_gazowany", "product_group":"napoje", "price":"2.59", "quantity":"2", "unit":"litr"},
+    {"product_name":"łaciate", "product_type":"mleko", "product_group":"nabial", "price":"1.89", "quantity":"0.5", "unit":"litr" },
+    {"product_name":"babuni", "product_type":"maka", "product_group":"produkty_zbozowe", "price":"1.78", "quantity":"1000", "unit":"gram" }
+],
+"carrefour":[
+    {"product_name":"pepsi", "product_type":"napoj_gazowany", "product_group":"napoje", "price":"2.59", "quantity":"2", "unit":"litr"},
+    {"product_name":"łaciate", "product_type":"mleko", "product_group":"nabial", "price":"1.89", "quantity":"0.5", "unit":"litr" },
+    {"product_name":"babuni", "product_type":"maka", "product_group":"produkty_zbozowe", "price":"1.78", "quantity":"1000", "unit":"gram" }
+],
+"kaufland":[
+    {"product_name":"pepsi", "product_type":"napoj_gazowany", "product_group":"napoje", "price":"2.59", "quantity":"2", "unit":"litr"},
+    {"product_name":"łaciate", "product_type":"mleko", "product_group":"nabial", "price":"1.89", "quantity":"0.5", "unit":"litr" },
+    {"product_name":"babuni", "product_type":"maka", "product_group":"produkty_zbozowe", "price":"1.78", "quantity":"1000", "unit":"gram" }
+]
+}
