@@ -1,0 +1,6 @@
+{"tesco_special":[
+    {"product_name":"pepsi", "special_price":"2.50", "quantity":"2", "unit":"litr", "od":"03-01-2016", "do":"13-01-2016"},
+    {"product_name":"łaciate", "special_price":"1.99", "quantity":"0.5", "unit":"litr", "od":"03-01-2016", "do":"13-01-2016"},
+    {"product_name":"babuni", "special_price":"1.59", "quantity":"1000", "unit":"gram", "od":"03-01-2016", "do":"13-01-2016"}
+]
+}
