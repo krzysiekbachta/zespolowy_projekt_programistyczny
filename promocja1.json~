@@ -54,20 +54,20 @@
 
 ],
 "kaufland_special":[
-    {"product_name":"kujawski", "special_price":"4.59", "quantity":"1", "unit":"litr", "od":"04-01-2016", "do":"16-01-2016" },
-    {"product_name":"milka", "special_price":"2.99", "quantity":"100", "unit":"gram", "od":"04-01-2016", "do":"16-01-2016" }, 
-    {"product_name":"kubuś", "special_price":"2.49", "quantity":"0.9", "unit":"litr", "od":"04-01-2016", "do":"16-01-2016" },
-    {"product_name":"syoss", "special_price":"8.19", "quantity":"0.5", "unit":"litr", "od":"04-01-2016", "do":"16-01-2016" },
-    {"product_name":"fructis", "special_price":"6.79", "quantity":"0.4", "unit":"litr", "od":"04-01-2016", "do":"16-01-2016" },
-    {"product_name":"coca-cola", "special_price":"2.99", "quantity":"2", "unit":"litr", "od":"04-01-2016", "do":"16-01-2016" },
+    {"product_name":"kujawski", "special_price":"4.89", "quantity":"1", "unit":"litr", "od":"04-01-2016", "do":"16-01-2016" },
+    {"product_name":"milka", "special_price":"3.09", "quantity":"100", "unit":"gram", "od":"04-01-2016", "do":"16-01-2016" }, 
+    {"product_name":"kubuś", "special_price":"2.69", "quantity":"0.9", "unit":"litr", "od":"04-01-2016", "do":"16-01-2016" },
+    {"product_name":"syoss", "special_price":"8.99", "quantity":"500", "unit":"mililitr", "od":"04-01-2016", "do":"16-01-2016" },
+    {"product_name":"fructis", "special_price":"7.79", "quantity":"400", "unit":"mililitr", "od":"04-01-2016", "do":"16-01-2016" },
+    {"product_name":"coca-cola", "special_price":"3.15", "quantity":"2", "unit":"litr", "od":"04-01-2016", "do":"16-01-2016" },
     {"product_name":"mu!", "special_price":"2.29", "quantity":"1", "unit":"litr", "od":"04-01-2016", "do":"16-01-2016" },
-    {"product_name":"marchew", "special_price":"1.09", "quantity":"1000", "unit":"gram", "od":"04-01-2016", "do":"16-01-2016" },
-    {"product_name":"sól", "special_price":"0.69", "quantity":"1000", "unit":"gram", "od":"04-01-2016", "do":"16-01-2016" },
-    {"product_name":"pieprz", "special_price":"1.09", "quantity":"20", "unit":"gram", "od":"04-01-2016", "do":"16-01-2016" },
-    {"product_name":"piątnica", "special_price":"1.25", "quantity":"200", "unit":"gram", "od":"04-01-2016", "do":"16-01-2016" },
-    {"product_name":"jacobs", "special_price":"18.89", "quantity":"500", "unit":"gram", "od":"04-01-2016", "do":"16-01-2016" },
-    {"product_name":"mövenpick", "special_price":"16.99", "quantity":"0.9", "unit":"litr", "od":"04-01-2016", "do":"16-01-2016" },
-    {"product_name":"algida", "special_price":"7.39", "quantity":"1", "unit":"litr", "od":"04-01-2016", "do":"16-01-2016" },
-    {"product_name":"ariel", "special_price":"19.99", "quantity":"1500", "unit":"gram", "od":"04-01-2016", "do":"16-01-2016" }
+    {"product_name":"marchew", "special_price":"1.29", "quantity":"1000", "unit":"gram", "od":"04-01-2016", "do":"16-01-2016" },
+    {"product_name":"sól", "special_price":"0.79", "quantity":"1000", "unit":"gram", "od":"04-01-2016", "do":"16-01-2016" },
+    {"product_name":"pieprz", "special_price":"1.19", "quantity":"20", "unit":"gram", "od":"04-01-2016", "do":"16-01-2016" },
+    {"product_name":"piątnica", "special_price":"1.44", "quantity":"200", "unit":"gram", "od":"04-01-2016", "do":"16-01-2016" },
+    {"product_name":"jacobs", "special_price":"20.89", "quantity":"500", "unit":"gram", "od":"04-01-2016", "do":"16-01-2016" },
+    {"product_name":"mövenpick", "special_price":"18.99", "quantity":"0.9", "unit":"litr", "od":"04-01-2016", "do":"16-01-2016" },
+    {"product_name":"algida", "special_price":"9.39", "quantity":"1", "unit":"litr", "od":"04-01-2016", "do":"16-01-2016" },
+    {"product_name":"ariel", "special_price":"21.99", "quantity":"1500", "unit":"gram", "od":"04-01-2016", "do":"16-01-2016" }
 ]
 }
